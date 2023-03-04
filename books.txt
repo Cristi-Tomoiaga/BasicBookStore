@@ -1,0 +1,7 @@
+1,Carte1,Ion Popescu,2002
+5,CarteAdaugata,Popescu,2007
+7,alba,shshs,333
+4,Carte4,Ion Ionescu,1999
+2,Carte2,Mihai Eugen,1990
+3,Carte3,Ion Popescu,2010
+6,AltaCarte,Popovici,1940
